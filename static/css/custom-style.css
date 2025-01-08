@@ -1,0 +1,68 @@
+/* General Styling */
+body {
+    background-color: #f8f9fc;
+    font-family: 'Nunito', sans-serif;
+}
+
+header {
+    background: linear-gradient(90deg, #007bff, #0056b3);
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* KPI Cards */
+.kpi-card {
+    background-color: white;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.kpi-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.kpi-card h6 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #4e73df;
+}
+
+.kpi-value {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #5a5c69;
+}
+
+/* Charts */
+.chart-card {
+    border-radius: 12px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.chart-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #4e73df;
+}
+
+.chart {
+    width: 100%;
+    height: 400px;
+}
+
+/* Footer */
+footer {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    font-size: 0.9rem;
+}
