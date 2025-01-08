@@ -25,24 +25,6 @@ This project provides an interactive, web-based dashboard for analyzing purchase
    - Dynamic sorting for real-time updates.
 
 
-## **Project Structure**
-
-├── static/
-│   ├── css/
-│   │   └── sb-admin-2.min.css  # Dashboard styling
-│   ├── js/
-│   │   ├── chart-age-group.js  # Script for age group chart
-│   │   ├── chart-gender-avg.js # Script for gender chart
-│   │   ├── chart-occupation.js # Script for occupation chart
-│   │   └── chart-city-category.js # Script for city distribution chart
-├── templates/
-│   └── index.html              # Main dashboard page
-├── demo.db                     # SQLite database with sample data
-├── server.py                   # Flask application backend
-├── README.md                   # Project documentation
-├── requirements.txt            # Python dependencies
-
-
 
 ## Technologies Used
 
