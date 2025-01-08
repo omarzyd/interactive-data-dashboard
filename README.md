@@ -14,4 +14,4 @@ This project involves the development of an interactive dashboard using **AM Cha
 - **Backend:** Python
 - **Data Processing:** Pandas
 
-![Screenshot 2024-12-22 122923](https://github.com/user-attachments/assets/eb022f78-3a14-4700-bf1b-c3106aedc8f8)
+![Screenshot 2024-12-21 215721](https://github.com/user-attachments/assets/2e80bc05-128a-475f-b021-5c22ed9f1136)
