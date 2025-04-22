@@ -62,6 +62,11 @@ This project provides an interactive, web-based dashboard for analyzing purchase
 4. `/get-occupation-vs-purchase`: Returns total purchase data grouped by occupation.
 
 
+![Screenshot 2024-12-21 215721](https://github.com/user-attachments/assets/7de7bd24-e33b-4250-bf94-5a467edec9c7)
+
+
+
+
  **Customization**
 
 1. **Data Queries**:
