@@ -1,5 +1,7 @@
 Interactive Dashboard for Purchase Analysis
 
+![Screenshot 2024-12-21 215721](https://github.com/user-attachments/assets/7de7bd24-e33b-4250-bf94-5a467edec9c7)
+
 ## Overview
 This project provides an interactive, web-based dashboard for analyzing purchase behavior. Designed for business managers, it offers insights into key metrics such as purchase trends, customer demographics, and regional performance. The dashboard is built with Flask for the backend, SQLite for data storage, and AMCharts for interactive visualizations, ensuring a seamless user experience.
 
@@ -60,11 +62,6 @@ This project provides an interactive, web-based dashboard for analyzing purchase
 2. `/get-city-category-distribution`: Provides the distribution of customers by city category.
 3. `/get-gender-vs-avg-purchase`: Returns average purchase data by gender and product category.
 4. `/get-occupation-vs-purchase`: Returns total purchase data grouped by occupation.
-
-
-![Screenshot 2024-12-21 215721](https://github.com/user-attachments/assets/7de7bd24-e33b-4250-bf94-5a467edec9c7)
-
-
 
 
  **Customization**
